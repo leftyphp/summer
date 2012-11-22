@@ -4,4 +4,4 @@
 */
 echo phpinfo();
 
-echo "blablablabla"
+echo "blabblabla"
